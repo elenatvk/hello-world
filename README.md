@@ -27,3 +27,13 @@ Integration Server | [sag-is-applatform](https://github.com/SoftwareAG/sagdevops
 | One     | Two        | Three   | Four          | 
 | ------------- |-------------| ---------| ------------- |
 | Span Across ||||
+
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
+</table>
